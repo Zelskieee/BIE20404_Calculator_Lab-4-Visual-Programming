@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 import javax.swing.border.LineBorder;
 import javax.swing.border.BevelBorder;
 
-// Section 4 Group 1 ( Arif, Junesh, Irfan & Syukri )
+// Section 4 Group 1 ( Arif, Irfan & Syukri )
 
 // CalculatorGroup1Section4 class that extends JFrame class and Implements ActionListener interface
 public class CalculatorGroup1Section4 extends JFrame implements ActionListener {
